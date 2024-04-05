@@ -15,3 +15,7 @@ source by looking at only a small portion of it.” – Richard Gabriel
 
 > The behaviour of a unit of code should be as obvious as possible by looking
 only at that unit of code
+
+## Twitch
+
+Dino sent his first message today! Apri 5.
