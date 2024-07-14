@@ -1,7 +1,9 @@
 [[game-dev]] [[tags/shaders]] 
 
-TEXTURE: will use the current texture (Sprite)
-UV: a map
+**TEXTURE**: will use the current texture (if available). Usually, a `uniform` is set to get a texture: `uniform sampler2D new_texture;`.
+**UV**: a texture coordinates for each pixel on the texture.
+
+When it is necessary to use the screen, we have a special type for the UV: `SCREEN_UV`.
 
 Scrolling background
 ```c
