@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gamedev/Shaders.md",
+                "file": "gamedev/Change particle colour.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gamedev/Shaders.md",
+                "file": "gamedev/Change particle colour.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gamedev/Shaders.md",
+                "file": "gamedev/Change particle colour.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gamedev/Shaders.md"
+                "file": "gamedev/Change particle colour.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "c5db42e6eae33da1",
   "lastOpenFiles": [
-    "tags/game-dev.md",
     "gamedev/Shaders.md",
+    "gamedev/Change particle colour.md",
+    "tags/game-dev.md",
     "linux",
     "gamedev",
     "tags/flatpak.md",
