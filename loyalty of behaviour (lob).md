@@ -1,4 +1,4 @@
-[[lob]] [[code]] [[principles]] [[loyalty-of-behaviour]]
+#code #principles
 
 [https://htmx.org/essays/locality-of-behaviour/](https://htmx.org/essays/locality-of-behaviour/)
 

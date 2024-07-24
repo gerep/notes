@@ -1,4 +1,4 @@
-[[game-dev]] [[tags/shaders]] 
+#gamedev #shader
 
 **TEXTURE**: will use the current texture (if available). Usually, a `uniform` is set to get a texture: `uniform sampler2D new_texture;`.
 **UV**: a texture coordinates for each pixel on the texture.
