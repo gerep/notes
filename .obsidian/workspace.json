@@ -23,9 +23,11 @@
             "id": "e898cb889da5e6bb",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "gamedev/Change particle colour.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
