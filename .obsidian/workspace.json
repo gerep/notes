@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "881a037cf33a0781",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shaders.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shaders.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shaders.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -147,11 +160,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e898cb889da5e6bb",
+  "active": "881a037cf33a0781",
   "lastOpenFiles": [
+    "Shaders.md",
+    "Untitled.md",
     "loyalty of behaviour (lob).md",
     "flatpak run steam with Nvidia.md",
-    "Shaders.md",
     "gamedev/Change particle colour.md",
     "tags/code.md",
     "tags/flatpak.md",
