@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "OBS config.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "OBS config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "OBS config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "OBS config.md"
               }
             }
           }
@@ -162,8 +162,11 @@
   },
   "active": "881a037cf33a0781",
   "lastOpenFiles": [
+    "Pasted image 20240729065521.png",
+    "Pasted image 20240729065509.png",
+    "Pasted image 20240729065458.png",
     "Shaders.md",
-    "Untitled.md",
+    "OBS config.md",
     "loyalty of behaviour (lob).md",
     "flatpak run steam with Nvidia.md",
     "gamedev/Change particle colour.md",
